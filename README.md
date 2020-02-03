@@ -15,13 +15,14 @@ This is from memory, so if I missed or forgot any steps I apologise - but since 
 
 ## Tools Needed
 - Drill / Driver
-- + 2mm Drill bit
-- + 25mm Drill bit / Hole Cutter
-- + Pz2 Screwdriver bit
++ 2mm Drill bit for pilot holes
++ 25mm Drill bit / Hole Cutter for button and joystick holes
++ 5mm Drill bit for acrylic fixing holes
++ Pz2 Screwdriver bit 
 - Jigsaw and / or circular saw
 - Ruler 
 - Tape Measure
-- Stanley Knife
+- Stanley Knife, for cutting the acrylic
 - If you can be bothered, a countersink
 
 ## Materials needed
@@ -77,7 +78,8 @@ Note that when you attach the parts togethe, drilling a pilot hole is a good cal
 22. Screw the acrylic in place to fix the monitor behind it.
 23. Now you can close the hole in the roof by screwing down piece E.
 24. Take the long screws and screw in the console panel to the front batten.
-25. Enjoy some retro gaming.
+
+25. You're done. Enjoy some retro gaming.
 
 
 
