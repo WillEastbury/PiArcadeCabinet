@@ -7,7 +7,7 @@ This is from memory, so if I missed or forgot any steps I apologise - but since 
 
 ## Electronics
 - 24" LCD Monitor
-- Raspberry Pi 3B + PSU + 128GB SD Card 
+- Raspberry Pi 3B + PSU + 128GB SD Card (You'll need a big one for all of the images you licence).
 - USB Keyboard and Mouse
 - Button and joystick kit - order online, [Here's the one that I used where the buttons have printed text and they light up ]( https://www.amazon.co.uk/dp/B07FYS5M2Q/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B07FYS5M2Q&pd_rd_w=YsjjR&pf_rd_p=1055d8b2-c10c-4d7d-b50d-96300553e15d&pd_rd_wg=EVrRE&pf_rd_r=6XNF3K6NBPTFZ81XA63X&pd_rd_r=acdc2bf2-392b-4a0a-a05f-9219e6366824&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFJWThJWkNNVjZES00mZW5jcnlwdGVkSWQ9QTAyOTAyMTAyUklZQktaVEQxQjRUJmVuY3J5cHRlZEFkSWQ9QTA0NjM4MzcxWFpMRFNDQ0IwV1NDJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 - Small self-powered active speaker
