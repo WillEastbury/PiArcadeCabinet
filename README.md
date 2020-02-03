@@ -5,6 +5,8 @@ I have had tons of requests for instructions on how to build this on facebook, s
 
 This is from memory, so if I missed or forgot any steps I apologise - but since I was making up as I went along to build this, you'll have to forgive me! Please let me know at willeastbury@gmail.com if you build one of these and how you got on.
 
+![Built Arcade Cabinet](/images/CabinetFinished.jpg "Finished Arcade Cabinet")
+
 ## Electronics
 - 24" LCD Monitor
 - Raspberry Pi 3B + PSU + 128GB SD Card (You'll need a big one for all of the images you licence).
@@ -46,6 +48,8 @@ This is from memory, so if I missed or forgot any steps I apologise - but since 
 - I Clear Acrylic Panel (I used LiteGlaze) cut to the screen aperture size (depends on the exact size of the screen you will be using but should be around 568mm wide and about that deep. To cut this - you score it deeply with the Stanley Knife and apply light pressure with the acrylic sandwiched between 2 pieces of wood.
 - J 2x Internal Horizontal Support Battens - cut from (iiii) (Timber 568mm x 38mm x 47mm)
 - K 2x Internal Lateral Support Battens - cut from (iiii) (Timber 300mm x 38mm x 47mm)
+
+![Arcade Cabinet Pieces](/images/CabinetPieces.jpg "Assembly Instructions")
 
 ## Instructions
 Get the builders merchant / hardware store to do as much of the cutting as you can get them to and keep the offcuts, they will come in useful as some of the parts are simply offcuts themselves! 
