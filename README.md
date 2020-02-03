@@ -5,7 +5,7 @@ I have had tons of requests for instructions on how to build this on facebook, s
 
 This is from memory, so if I missed or forgot any steps I apologise - but since I was making up as I went along to build this, you'll have to forgive me! Please let me know at willeastbury@gmail.com if you build one of these and how you got on.
 
-![Built Arcade Cabinet](/images/CabinetFinished.jpg "Finished Arcade Cabinet")
+![Built Arcade Cabinet](/images/CabinetFinished.JPG "Finished Arcade Cabinet")
 
 ## Electronics
 - 24" LCD Monitor
