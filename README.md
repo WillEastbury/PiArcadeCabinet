@@ -25,26 +25,26 @@ This is from memory, so if I missed or forgot any steps I apologise - but since 
 - If you can be bothered, a countersink
 
 ## Materials needed
-i 2400mm x 600 x 16mm white furniture board
-ii 600mm x 300 x 16mm grey furniture board 
-iii 2400mm x 400mm x 16mm white furniture board (x2)
-iv Untreated timber 2400mm x 38mm x 47mm  (x2)
-v Medium length ~3cm Pz2 wood screws x24 (These are used to build the white cabinet case / frame and to screw the support battens in place inside the cabinet.
-vi Small length ~1cm Pz2 wood screws x14 (These are to fix the Angled Screen supports in place and to attach the joystick to the underside of the console panel)
-vii Long 5cm Pz2 wood screws x2 (These are to screw the grey console panel to the cabinet)
+- i 2400mm x 600 x 16mm white furniture board
+- ii 600mm x 300 x 16mm grey furniture board 
+- iii 2400mm x 400mm x 16mm white furniture board (x2)
+- iv Untreated timber 2400mm x 38mm x 47mm  (x2)
+- v Medium length ~3cm Pz2 wood screws x24 (These are used to build the white cabinet case / frame and to screw the support battens in place inside the cabinet.
+- vi Small length ~1cm Pz2 wood screws x14 (These are to fix the Angled Screen supports in place and to attach the joystick to the underside of the console panel)
+- vii Long 5cm Pz2 wood screws x2 (These are to screw the grey console panel to the cabinet)
 
 ## Cutting List 
-A Rear Panel (16mm White Furniture Board 600mm x 1300mm) cut from (i)
-B 2x Identical Side Panels (16mm White Furniture Board x 1500mm x 400mm ) cut from (iii) ** Additionally cut these panels diagonally from the top right edge down to the 1300mm height on the left edge if facing down on this on the flat.
-C Front Panel (16mm White Furniture Board x 600mm x 1000mm) - cut from (i)
-D Roof Part 1 (16mm White Furniture Board x 600mm x 400mm) - cut from (iii)
-E Roof Part 2 (16mm White Furniture Board x 600mm x 100mm) - cut from (i)
-F 2x Angled Screen Support - Offcuts left from diagonal cut of B above
-G Internal pi shelf (16mm White Furniture Board x 600mm x 400mm) - cut from (iii)
-H Console Panel (16mm Grey Furniture Board) cut from (ii)
-I Clear Acrylic Panel (I used LiteGlaze) cut to the screen aperture size (depends on the exact size of the screen you will be using but should be around 568mm wide and about that deep. To cut this - you score it deeply with the Stanley Knife and apply light pressure with the acrylic sandwiched between 2 pieces of wood.
-J 2x Internal Horizontal Support Battens - cut from (iiii) (Timber 568mm x 38mm x 47mm)
-K 2x Internal Lateral Support Battens - cut from (iiii) (Timber 300mm x 38mm x 47mm)
+- A Rear Panel (16mm White Furniture Board 600mm x 1300mm) cut from (i)
+- B 2x Identical Side Panels (16mm White Furniture Board x 1500mm x 400mm ) cut from (iii) ** Additionally cut these panels diagonally from the top right edge down to the 1300mm height on the left edge if facing down on this on the flat.
+- C Front Panel (16mm White Furniture Board x 600mm x 1000mm) - cut from (i)
+- D Roof Part 1 (16mm White Furniture Board x 600mm x 400mm) - cut from (iii)
+- E Roof Part 2 (16mm White Furniture Board x 600mm x 100mm) - cut from (i)
+- F 2x Angled Screen Support - Offcuts left from diagonal cut of B above
+- G Internal pi shelf (16mm White Furniture Board x 600mm x 400mm) - cut from (iii)
+- H Console Panel (16mm Grey Furniture Board) cut from (ii)
+- I Clear Acrylic Panel (I used LiteGlaze) cut to the screen aperture size (depends on the exact size of the screen you will be using but should be around 568mm wide and about that deep. To cut this - you score it deeply with the Stanley Knife and apply light pressure with the acrylic sandwiched between 2 pieces of wood.
+- J 2x Internal Horizontal Support Battens - cut from (iiii) (Timber 568mm x 38mm x 47mm)
+- K 2x Internal Lateral Support Battens - cut from (iiii) (Timber 300mm x 38mm x 47mm)
 
 ## Instructions
 Get the builders merchant / hardware store to do as much of the cutting as you can get them to and keep the offcuts, they will come in useful as some of the parts are simply offcuts themselves! 
