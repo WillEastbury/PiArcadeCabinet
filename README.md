@@ -51,7 +51,16 @@ This is from memory, so if I missed or forgot any steps I apologise - but since 
 
 ![Arcade Cabinet Pieces](/images/CabinetPieces.jpg "Assembly Instructions")
 
-## Instructions
+## TL;DR; Instructions from Bradley (aged 7)
+1. Cut the wood
+2. Fit the pieces 
+3. Drill the buttons
+4. Fit the buttons
+5. Mount a screen
+6. Connect the pi
+7. Install RetroPie
+
+## Longer Instructions 
 Get the builders merchant / hardware store to do as much of the cutting as you can get them to and keep the offcuts, they will come in useful as some of the parts are simply offcuts themselves! 
 
 NOTE: Before you start check the *exact* width of the monitor, if it's more than 568mm across, then you will need to adjust the sizes below, or buy a smaller monitor - it just happened that our monitor  was EXACTLY the size of the aperture when accounting for the maximum 600mm width of the furniture board - the width of the 2 sides at 16mm each. If yours is bigger you will need to account for  this in the way you attach the frame and the width of the battens.
